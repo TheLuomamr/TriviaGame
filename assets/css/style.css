@@ -1,0 +1,71 @@
+body{
+    background-image: url("../images/paper.jpg");
+    background-size: cover;
+    font-family: 'Bevan', cursive;    
+}
+
+#main{
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 0px; 
+    width: 100px;
+    height: 150px; 
+    text-align:center;
+    opacity: 1.0;
+    background-color:rgb(231, 231, 231);
+}
+
+h1 {
+    font-size: 60px;
+    position: relative;
+    float: left;
+}
+
+#ms1{
+    position: relative;
+    float: left;
+    width: 175px;
+    height: 140px;
+    border-radius: 25px;
+    margin: 2px;
+}
+
+#ms2{
+    position: absolute;
+    float: right;
+    height: 140px;
+    width: 175px;
+    position: relative;
+    float: left;
+    border-radius: 25px;
+    margin: 2px;
+}
+
+#middle{
+    border-radius: 25px;
+    border: 2px solid black;
+    text-align: center;
+    background-color:rgb(231, 231, 231);
+    color: black;
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+#start {
+    margin-top: 1%;
+    background: rgb(187, 33, 33);
+    border: 2px solid rgb(0, 0, 0);
+    width: 100px;
+    height:50px;
+}
+
+h2{
+    text-align:center;
+}
+#done{
+    width: 100px;
+    height: 50px;
+    border: solid 1px red;
+    background-color: gray;
+    margin-left: 500px;
+    font-size: 25px;
+    margin-top: 20px;
+}
