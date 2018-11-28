@@ -13,4 +13,4 @@ The Office Trivia Game! Advance to the link to try it out!
 -JQuery
 -Bootstrap
 
-![The Office]("assets/images/Office")
+![The Office](https://i.postimg.cc/fbNR34S6/Office.png)
